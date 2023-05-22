@@ -1,1 +1,1 @@
-# dsbda-codes
+Dsbda codes for study purpose only
